@@ -1,0 +1,7 @@
+{
+    "revision": "v1.0.0",
+    "roots": ["ec"],
+    "metadata": {
+        "source": "https://github.com/project-ncl/mequal-helpers"
+    }
+}
